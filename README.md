@@ -4,7 +4,7 @@
 
 Automaton with probabilistic rules. 
 
-![image alt text](langton.png)
+![image alt text](forrest.png)
 
 ### Langton's ant
 
